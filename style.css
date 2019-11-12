@@ -1,0 +1,40 @@
+
+h1{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+
+body{
+    background-image: url("https://www.muralswallpaper.co.uk/app/uploads/sombrero-galaxy-space-plain.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
+}
+
+table{
+    color: white;
+}
+/*
+.navbar li {
+    display: inline-block;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 3px;
+  }
+  
+  /* Getting rid of the default link styles here 
+  .navbar li a {
+    color: #000;
+    text-decoration: none;
+  }
+*/
+
+ul{
+    color: white;
+}
